@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MuscleTrack</string>
+    <string name="title_home">Home</string>
+    <string name="title_motivation">Motivation</string>
+    <string name="title_aboutus">About Us</string>
+    <string name="title_suggestions">Suggestions</string>
+</resources>
