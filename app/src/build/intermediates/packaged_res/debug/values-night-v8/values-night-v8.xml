@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MuscleTrack" parent="Theme.MaterialComponents">
+        
+        <item name="colorPrimary">@color/icon_top</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/nav</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/icon_top</item>
+        
+        <item name="android:statusBarColor">@color/nav</item>
+        
+    </style>
+</resources>

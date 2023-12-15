@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MuscleTrack_background">#000000</color>
+    <color name="black">#FF000000</color>
+    <color name="icon_top">#76EAD7</color>
+    <color name="nav">#393E46</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <string name="app_name">MuscleTrack</string>
+    <string name="title_aboutus">About Us</string>
+    <string name="title_home">Home</string>
+    <string name="title_motivation">Motivation</string>
+    <string name="title_suggestions">Suggestions</string>
+    <style name="Theme.MuscleTrack" parent="Theme.MaterialComponents">
+        
+        <item name="colorPrimary">@color/icon_top</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/nav</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/icon_top</item>
+        
+        <item name="android:statusBarColor">@color/nav</item>
+        
+    </style>
+</resources>
